@@ -1,0 +1,262 @@
+body {
+    background: linear-gradient(0deg, #F9EEE3, #F9EEE3),
+    linear-gradient(180deg, rgba(255, 255, 255, 0) 0%, #FFFFFF 100%);
+    
+}
+
+.responsive {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.shapka {
+    justify-content: space-evenly;
+    align-items: center;
+}
+
+.menu {
+    gap: 20px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+
+
+}
+
+.login {
+    background: #C47344;
+    width: 129px;
+    height: 47px;
+    gap: 0px;
+    border-radius: 20px;
+    opacity: 0px;
+    border: none;
+    color: white;
+
+}
+
+.section1 {
+    width: 51px;
+    height: 25px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 20px;
+    background-color:
+        #C47344;
+    padding: 5px;
+    color: white;
+}
+
+.section2 {
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 20px;
+    background-color: #dfd9d0;
+    padding: 5px;
+}
+
+.section3 {
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 110px;
+    font-weight: 700;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 28px;
+
+
+}
+
+.section4 {
+
+    gap: 0px;
+    opacity: 0px;
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: center;
+
+}
+
+.menusection5 {
+    width: 700px;
+    top: 25px;
+    gap: 0px;
+    opacity: 0px;
+    margin: 150px auto;
+    text-align: center;
+}
+.hamkor{
+    justify-content: center;
+
+    width: 100%;
+    height: auto;
+    top: 645px;
+    gap: 40px;
+    opacity: 0px;
+
+}
+.more{
+    width: 100%;
+    margin-top: 20px;
+    gap: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.more-text{
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: left;
+    color: #C47344;
+
+}
+
+.rasmjon{
+    width: 100%;
+    justify-content: center;
+}
+.card {
+    text-align: center;
+    width: 496.9px;
+    height: 498px;
+    background-color: #FFFAF2;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px 1px #00000014;
+
+
+}
+.card-title {
+    font-family: Roboto;
+    font-size: 42px;
+    font-weight: 700;
+    line-height: 52px;
+    text-align: center;
+
+
+}
+.card-text {
+    font-family: Roboto;
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 28px;
+    text-align: center;
+
+}
+.card-button{
+    width: 152.11px;
+    height: 48px;
+    top: 416px;
+    left: 172.39px;
+    gap: 0px;
+    opacity: 0px;
+    border-radius: 30px;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    text-align: center;
+    border: none;
+
+
+}
+.cards{
+    gap: 40px;
+    justify-content: center;
+    width: 1440px;
+    margin: auto;
+}
+
+.kitob{
+    position: relative;
+    top: -10px;
+    left: 10px;
+    width: 200px;
+    background: #32686F;
+    box-shadow: 1px 1px 12px 0px #0000008C;
+    border-radius: 10px;
+    padding: 25px;
+    color: white;
+}
+.kitob1{
+    margin-top: 65px;
+    border-radius: 10px;
+    width: 245px;
+    background: #32686F;
+}
+
+.kitob-button{
+    width: 200px;
+    border-top: 2px solid rgb(124, 118, 118);
+    background: #32686F;
+    border-bottom: none;
+    border-left: none;
+    border-right: none;
+    color: white;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.kitob-title{
+    font-family: Roboto;
+    font-size: 53px;
+    font-weight: 700;
+    line-height: 62px;
+    text-align: left;
+
+    width: 465px;
+
+
+}
+
+.kitob-main{
+    background: linear-gradient(0deg, #F9EEE3, #F9EEE3);
+
+    justify-content: center;
+    margin-top: 100px;
+    gap: 70px;
+}
+.kitob-text{
+    font-family: Roboto;
+    font-size: 21px;
+    font-weight: 500;
+    line-height: 33px;
+    text-align: left;
+
+}
+
+.kitob-button1{
+    width: 146px;
+height: 47px;
+border: 2px solid #E1DED9;
+background-color: white;
+border-radius: 50px;
+
+}
+
+.kitob-content{
+    width: 470px;
+height: 390px;
+top: 22px;
+left: 655px;
+gap: 0px;
+opacity: 0px;
+
+}
+.kontakt{
+    gap: 45px;
+    width: 1200px;
+    margin: auto;
+}
+.kontakt-title{
+    width: 550px;
+margin-top: 35px;
+
+}
